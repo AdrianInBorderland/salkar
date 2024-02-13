@@ -1,0 +1,41 @@
+::selection {
+	background: #2f65ff;
+	color: #fff;
+}
+::-moz-selection {
+	background: #2f65ff;
+	color: #fff;
+}
+body {
+	background: rgb(0,80,201);
+	background: -moz-linear-gradient(45deg, rgba(0,80,201,1) 0%, rgba(28,112,239,1) 100%);
+	background: -webkit-linear-gradient(45deg, rgba(0,80,201,1) 0%,rgba(28,112,239,1) 100%);
+	background: linear-gradient(45deg, rgba(0,80,201,1) 0%,rgba(28,112,239,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0050c9', endColorstr='#1c70ef',GradientType=1 );
+}
+.u-i-w span.material-icons-two-tone {
+    filter: invert(31%) sepia(82%) saturate(5736%) hue-rotate(212deg) brightness(93%) contrast(88%);
+}
+.s-o, .p-b, .s-f-p-t-u-w, .s-f-p-t-p-w, .p-lb div, .c-w-p-g-i-i-c-w {
+	background: #0f61dd;
+}
+.p-s-i.active {
+	background: #0f61dd;
+	box-shadow: 0 0 0 2px #fff, 0 0 0 4px #0f61dd;
+}
+.r-i-s-r-h-w span {
+	background: #0f61dd;
+}
+.r-s-i:hover  {
+	border: 2px solid #0f61dd;
+}
+.r-s-i.active {
+	border: 2px solid #0f61dd;
+	box-shadow: 0 0 0 2px #fff, 0 0 0 5px #0f61dd;
+}
+.prlp {
+	background: #0050c9;
+}
+.prlw {
+	background: #0050c9;
+}
